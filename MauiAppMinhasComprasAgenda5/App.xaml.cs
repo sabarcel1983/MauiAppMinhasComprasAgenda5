@@ -12,6 +12,5 @@ namespace MauiAppMinhasComprasAgenda5
             MainPage = new NavigationPage(new Views.ListaProduto());
 
         }
-
     }
 }
